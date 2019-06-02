@@ -1,0 +1,8 @@
+node_modules
+build
+lib
+zip
+assets
+dist
+.idea
+npm-debug.log
